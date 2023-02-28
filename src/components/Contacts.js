@@ -26,7 +26,7 @@ export default function Contacts({ contacts, changeChat }) {
         <Container>
           <div className="brand">
             <img src={Logo} alt="logo" />
-            <h3>CHAT WITH ME</h3>
+            <h3>CHAT APP</h3>
             <br />
           </div>
           <div className="contacts">
